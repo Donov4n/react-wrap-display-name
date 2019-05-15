@@ -1,0 +1,18 @@
+{
+    "name"        : "react-wrap-display-name",
+    "version"     : "1.0.0",
+    "description" : "A small tool for wrapping component display name",
+    "homepage"    : "https://github.com/Donov4n/react-wrap-display-name",
+    "license"     : "MIT",
+    "repository"  : "Donov4n/react-wrap-display-name",
+    "author"      : "Donovan Lambert <d.lambert@cirize.com>",
+    "main"        : "lib/index.js",
+    "scripts"     : {
+        "lint": "eslint ."
+    },
+    "devDependencies": {
+        "eslint"                    : "^5.16.0",
+        "eslint-config-airbnb-base" : "^13.1.0",
+        "eslint-plugin-import"      : "^2.17.2"
+    }
+}
