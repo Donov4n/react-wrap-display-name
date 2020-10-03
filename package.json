@@ -1,6 +1,6 @@
 {
     "name"        : "react-wrap-display-name",
-    "version"     : "1.0.1",
+    "version"     : "1.0.2",
     "description" : "A small tool for wrapping component display name",
     "homepage"    : "https://github.com/Donov4n/react-wrap-display-name",
     "license"     : "MIT",
